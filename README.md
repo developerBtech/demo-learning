@@ -1,2 +1,3 @@
 # demo-learning
-My first Git repo
+My first Git repository
+the writer is Somnath Banerjee.
